@@ -2,6 +2,10 @@
 
 An tiny wrapper for [chafa](https://github.com/hpjansson/chafa) to display a visual representation of images when accidentally opened with vim.
 
+![preview](https://user-images.githubusercontent.com/36740602/136119363-d808ce4a-bf41-45ed-8faf-cb189d5be026.png)
+
+[Image Source](https://unsplash.com/photos/CuX1gCjpp2E)
+
 ## Installation
 
 If you're using [vim-plug](https://github.com/junegunn/vim-plug), ensure you have [chafa](https://github.com/hpjansson/chafa) installed and add the following to your `init.vim`:
