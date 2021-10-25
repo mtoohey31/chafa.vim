@@ -4,4 +4,4 @@ endif
 
 let g:loaded_chafa = 1
 
-au BufRead *.png,*.jpg,*.jpeg :call chafa#display_image(expand('<afile>'))
+au BufRead *.png,*.jpg,*.jpeg,*.ico :call chafa#display_image(expand('<afile>'))
